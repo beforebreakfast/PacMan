@@ -1,19 +1,22 @@
-## Getting Started
+# PacMan (Java Swing)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple Pac-Man game project built with **Java Swing**.  
+This project is created for learning purposes, focusing on GUI, game loop, and basic 2D game mechanics.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## Features
+- Classic Pac-Man style grid board
+- Player movement using keyboard controls
+- Ghost enemies (random movement)
+- Collision detection
+- Score system (pellets)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Technologies Used
+- Java
+- Java Swing (JFrame, JPanel)
+- AWT (Graphics, KeyEvent)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-"# PacMan" 
+--
